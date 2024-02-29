@@ -30,7 +30,7 @@ PC2 cannot ping the end devices in the other subnets. <br/>
 <br />
 
 <h4>After OSPF:</h4> 
-R1 all the routes to the subnets in the private network. <br/>
+R1 now has all the routes to the subnets in the private network. <br/>
 <img src="https://i.imgur.com/bBUSSPN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 PC2 cannot ping the end devices in the other subnets. <br/>
 <img src="https://i.imgur.com/f7fbpUn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
